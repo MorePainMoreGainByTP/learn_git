@@ -14,3 +14,4 @@ Git is free software distributed under the GPL.
 测试reset
 
 Git has a mutable index called stage.
+Git tracks changes.
